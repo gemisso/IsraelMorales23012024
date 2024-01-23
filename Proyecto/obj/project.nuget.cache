@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JX9jwiTVTGphJVALOh2zHIyiXcMwgLxv3XL1dztTJyEK4z6g1RlvP/EnZh/fsvaM1Lk9pHoFe/peMFOODC+atQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gemis\\source\\repos\\Proyecto\\Proyecto\\Proyecto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gemis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
